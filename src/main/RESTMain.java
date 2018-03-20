@@ -12,7 +12,7 @@ import javax.ws.rs.core.Response.StatusType;
  */
 public class RESTMain {
 
-	//--  REST_URL Agregar el endPoint del servicio Rest  
+	//--  REST_URL Agregar el endPoint del servicio Rest  _2
 	public static final String  REST_URL ="";
 	public static final int OK_STATUS = Response.Status.OK.getStatusCode();
 	
